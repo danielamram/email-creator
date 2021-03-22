@@ -1,5 +1,5 @@
 {
-  "name": "email-creator",
+  "name": "@danielamram/email-creator",
   "version": "1.0.0",
   "description": "email creator package",
   "main": "index.js",
